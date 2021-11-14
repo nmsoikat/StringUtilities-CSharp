@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\obj\Debug\StringUtilities.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\obj\Debug\StringUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\bin\Debug\StringUtilities.exe.config
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\bin\Debug\StringUtilities.exe
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\bin\Debug\StringUtilities.pdb
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\obj\Debug\StringUtilities.exe
+C:\Users\Dell\Documents\C#\StringUtilities\StringUtilities\obj\Debug\StringUtilities.pdb
